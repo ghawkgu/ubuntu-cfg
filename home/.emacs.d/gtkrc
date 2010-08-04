@@ -1,0 +1,8 @@
+style "myfont"
+{
+  font_name = "Monospace 18"
+}
+
+widget "*menubar" style "myfont"
+# widget_class "GtkWindow.GtkVBox.GtkFixed" style "myfont"
+

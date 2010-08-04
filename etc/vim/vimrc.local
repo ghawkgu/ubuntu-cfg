@@ -1,0 +1,16 @@
+set t_Co=256
+syntax on
+set nu
+set nuw=7
+set enc=utf-8
+
+set ts=4
+set sw=4
+set sta
+set et
+set si
+
+set hls
+set sm
+
+colorscheme ir_black
